@@ -67,6 +67,6 @@
             <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/wmTqc9bP4g7APeQwYLaD/</url>
         </repository>
-    </distributionManagement> -->
+    </distributionManagement>
 
 </project>
